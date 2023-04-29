@@ -37,3 +37,42 @@
     display: flex;
     justify-content: flex-end;
 }
+/* სექცია */
+.section{
+    width: 100%;
+    background: #DDEAF8;
+    margin: 0 auto;
+    padding: 94px 98px 135px;
+}
+.h1{
+    color: #27187F;
+    font-size: 32px;
+    margin-bottom: 68px;
+    
+}
+.cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 51px 0;
+     
+}
+.card1{
+width: 30%;
+height: 333px;
+background: #FFFFFF;
+border-radius: 10px;
+
+}
+.img3{
+    width: 85%;
+    height: 188px;
+    margin: 33px 30px;
+}
+.p3{
+    font-size: 20px;
+    color: #133B3A;
+    margin: 0 30px 33px;
+
+}
